@@ -33,7 +33,7 @@ npm run dev
 
 | Languages | Documentation |
 | ------ | ------ |
-| Laravel | [Documentation](https://laravel.com/) .|
+| Laravel | [Documentation](https://laravel.com/) |
 | Bootstrap | [Documentation](https://getbootstrap.com/) |
 | Livewire | [Documentation](https://laravel-livewire.com/) |
 | Jetstream | [Documentation](https://jetstream.laravel.com/2.x/introduction.html) |
