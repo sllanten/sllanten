@@ -1,16 +1,23 @@
-# Javier Ll.
+<p align="center"><a href="https://www.facebook.com/javier.quinonez.black/" target="_blank"><img src="https://i.ibb.co/hCc8T8P/git-javier.png  width="300" height="300" ></a></p>
+
+<p align="center">
+    <label>Programmer</label>
+</p>
+
 ## Description
 
-I consider myself a person with human quality, who assumes with pleasure and responsibility the challenges, in the same way, with initiative to learning.
-
-In the field of programming I like to document and test myself about new functions, programming languages, design patterns among other things.
-
+I consider myself a person with human quality, who assumes with pleasure and responsibility the challenges, in the same way, with initiative to learn.
+In the area of programming I like to document and test new functions, programming languages, design patterns among other things.
+    
 ## Installation of Public Repositories
 
 For proper operation you must have installed:
-[Composer](https://getcomposer.org/) v2.3.4 
-[Node.js](https://nodejs.org/es/) v16.14.2 LTC
-[Xampp](https://www.apachefriends.org/es/index.html) v7.4.28-1-VC15
+
+- [Composer](https://getcomposer.org/).
+- [Node.js](https://nodejs.org/es/).
+- [Xampp](https://www.apachefriends.org/es/index.html).
+
+## Installation commands
 
 Once the repository is copied you must open a terminal and execute the following commands
 Note: When the project is in a version below the current one you must run:
@@ -22,21 +29,17 @@ npm install
 npm run dev
 ```
 
-## Favorite programming languages and frameworks
+### Favorite programming languages and frameworks
 
 | Languages | Documentation |
 | ------ | ------ |
-| Laravel | <https://laravel.com/> |
-| Bootstrap | <https://getbootstrap.com/> |
-| Livewire | <https://laravel-livewire.com/> |
-| Jetstream | https://jetstream.laravel.com/2.x/introduction.html |
-| tailwindui | https://tailwindui.com/ |
+| Laravel | [Documentation](https://laravel.com/) .|
+| Bootstrap | [Documentation](https://getbootstrap.com/) |
+| Livewire | [Documentation](https://laravel-livewire.com/) |
+| Jetstream | [Documentation](https://jetstream.laravel.com/2.x/introduction.html) |
+| tailwindui | [Documentation](https://tailwindui.com/)|
+    
+### Find me in
 
-## Find me in
-
-| Red Social | Link |
-| ------ | ------ |
-| Whatsapp | <https://api.whatsapp.com/send?phone=573136174997/> |
-| Facebok | <https://www.facebook.com/javier.quinonez.black//> |
-| Email | dj_javier.net@hotmail.com |
-|
+- **[Whatsapp](https://api.whatsapp.com/send?phone=573136174997/)**
+- **[Facebok](https://www.facebook.com/javier.quinonez.black//)**
