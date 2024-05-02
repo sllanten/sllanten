@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.facebook.com/javier.quinonez.black/" target="_blank"><img src="https://i.ibb.co/hCc8T8P/git-javier.png  width="300" height="300" ></a></p>
+<p align="center"><a href="https://www.facebook.com/javier.quinonez.black/" target="_blank"><img src="https://i.ibb.co/hCc8T8P/git-javier.png"></a></p>
 
 <p align="center">
     <label>Programmer</label>
