@@ -41,5 +41,5 @@ npm run dev
     
 ### Find me in
 
-- **[Whatsapp](https://api.whatsapp.com/send?phone=573136174997/)**
+- **[Whatsapp](https://api.whatsapp.com/send?phone=573235073356/)**
 - **[Facebok](https://www.facebook.com/javier.quinonez.black//)**
