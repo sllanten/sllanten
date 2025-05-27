@@ -1,14 +1,49 @@
-<p align="center"><a href="https://www.facebook.com/javier.quinonez.black/" target="_blank"><img src="https://i.ibb.co/hCc8T8P/git-javier.png"></a></p>
-
 <p align="center">
-    <label>Software developer</label>
+  <a href="https://api.whatsapp.com/send?phone=573235073356" target="_blank">
+    <img src="https://i.ibb.co/hFhvPrvV/Chat-GPT-Image-27-may-2025-12-24-07.png" alt="WhatsApp Contact" width="100%">
+  </a>
 </p>
 
-## Description
+<h1 align="center">👨‍💻 devsllanten | Desarrollador de Software</h1>
 
-Software developer with experience in the design, implementation and maintenance of applications and computer systems. My experience includes development in programming languages such as C#, JavaScript, Php, Java among others, as well as the use of tools and frameworks such as Laravel, Vue.js, Bootstrap. I am familiar with agile methodologies which allows me to collaborate efficiently in multidisciplinary teams and deliver high quality solutions in tight deadlines.
-   
-### Find me in
+<p align="center">
+  Apasionado por construir soluciones <strong>robustas</strong>, <strong>escalables</strong> y <strong>seguras</strong>. Especializado en arquitecturas de microservicios, APIs RESTful, bases de datos y sistemas integrados.
+</p>
 
-- **[Whatsapp](https://api.whatsapp.com/send?phone=573235073356/)**
-- **[Facebok](https://www.facebook.com/javier.quinonez.black//)**
+---
+
+## ⚙️ Tecnologías y Herramientas
+
+### 🧠 Lenguajes
+- `PHP`, `Node.js`, `Java`, `C#`, `Python`, `JavaScript`, `CSS`
+
+### 📚 Frameworks y Librerías
+- `Laravel`, `Express`, `Bootstrap`, `WinForms`, `jQuery`, `Chart.js`
+
+### 🛢️ Bases de Datos
+- `MySQL`, `MongoDB`, `SQL Server`
+
+### 🐧 DevOps & Herramientas
+- `Docker`, `CI/CD`, `Linux`
+
+### ✅ Testing
+- `Unit Testing`
+
+---
+
+## 🤝 ¿Trabajamos juntos?
+
+Estoy abierto a:
+- 🔍 Code Reviews
+- 🧠 Mentorías
+- 🚀 Colaboraciones en proyectos desafiantes
+
+---
+
+## 📬 ¡Contáctame!
+
+- 💬 [Enviar mensaje por WhatsApp](https://api.whatsapp.com/send?phone=573235073356)
+
+---
+
+> *"Construyamos juntos soluciones que marquen la diferencia."*
