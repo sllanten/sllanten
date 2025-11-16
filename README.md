@@ -1,11 +1,7 @@
 <h1 align="center">👨‍💻 Desarrollador de Software</h1>
 
-<p align="center">
 Desarrollador de software con experiencia en el diseño, desarrollo e implementación de aplicaciones eficientes y escalables. Especializado en la creación de soluciones tecnológicas que optimizan procesos y mejoran la experiencia del usuario. Manejo de múltiples lenguajes de programación y frameworks modernos, con un enfoque en la calidad del código, buenas prácticas y metodologías ágiles. Orientado a la resolución de problemas, la innovación y el trabajo colaborativo dentro de equipos multidisciplinarios
-</p>
-
----
-
+<img src="https://camo.githubusercontent.com/17434500d44a463856292fb6ceaeb9eb9bfc33c98b9b7fc6ef7e467ed1cd8041/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36352673656374696f6e3d666f6f746572" width="100%"/>
 ## ⚙️ Tecnologías y Herramientas
 
 ### 🧠 Lenguajes
@@ -38,25 +34,3 @@ Desarrollador de software con experiencia en el diseño, desarrollo e implementa
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-8892BF?style=for-the-badge&logo=php&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-
----
-
-## 🤝 ¿Trabajamos juntos?
-
-Estoy abierto a:  
-- 🔍 Code Reviews  
-- 🧠 Mentorías  
-- 🚀 Colaboraciones en proyectos desafiantes  
-
----
-
-## 📬 ¡Contáctame!
-
-- 🐙 [GitHub](https://github.com/sllanten)  
-- 💬 [WhatsApp](https://api.whatsapp.com/send?phone=573235073356)  
-
----
-
-<p align="center">
-  <em>"Construyamos juntos soluciones que marquen la diferencia."</em>
-</p>
